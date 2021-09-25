@@ -1,3 +1,4 @@
 # Domains known to have a high amount of spam
 
 /cloudwaysapps.com$/i
+/stonepizza.org$/i

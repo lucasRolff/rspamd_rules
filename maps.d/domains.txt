@@ -2,3 +2,4 @@
 
 /cloudwaysapps.com$/i
 /stonepizza.org$/i
+/premadediamonds.com$/i

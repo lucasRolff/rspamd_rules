@@ -4,3 +4,4 @@
 /stonepizza.org$/i
 /premadediamonds.com$/i
 /preciouspace.net$/i
+/seasonalgrowth.org$/i

@@ -5,3 +5,4 @@
 /premadediamonds.com$/i
 /preciouspace.net$/i
 /seasonalgrowth.org$/i
+/a2zcreatorz.com$/i

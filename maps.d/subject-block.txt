@@ -1,2 +1,3 @@
 /.*Vi kan bekræfte, at du er vinderen.*/i
 /.*Hurra.for.*i.dag.*/i
+/.*Vi kunne ikke kontakte dig via telefon.*/i

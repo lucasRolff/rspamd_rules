@@ -6,6 +6,7 @@
 /preciouspace.net$/i
 /seasonalgrowth.org$/i
 /a2zcreatorz.com$/i
+/ryanbabiuch.com$/i
 
 # autodoc.com sites - pure spam
 /bildeleshop.dk$/i

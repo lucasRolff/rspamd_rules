@@ -7,6 +7,20 @@
 /seasonalgrowth.org$/i
 /a2zcreatorz.com$/i
 
+# autodoc.com sites - pure spam
+/bildeleshop.dk$/i
+/newsautodoc.com$/i
+/autodoc.nl$/i
+/auto-onderdelen24.nl$/i
+/autoparti.it$/i
+/piecesauto24.be$/i
+/auto-doc.fr$/i
+/piecesauto24.com$/i
+/piecesdiscount24.fr$/i
+/reservedelenstore.nl$/i
+/autodoc.pl$/i
+/autodoc.es$/i
+
 # TLD List from MXRoute
 /\.bid$/i
 /\.club$/i

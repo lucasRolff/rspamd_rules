@@ -1,2 +1,2 @@
 /.*Vi kan bekræfte, at du er vinderen.*/i
-/.*Hurra for i dag.*/i
+/.*Hurra.for.*i.dag.*/i

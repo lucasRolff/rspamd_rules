@@ -20,6 +20,7 @@
 /reservedelenstore.nl$/i
 /autodoc.pl$/i
 /autodoc.es$/i
+/autodoc.dk$/i
 
 # TLD List from MXRoute
 /\.bid$/i

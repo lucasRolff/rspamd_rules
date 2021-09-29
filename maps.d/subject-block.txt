@@ -2,3 +2,4 @@
 /.*Hurra.for.*i.dag.*/i
 /.*Vi kunne ikke kontakte dig via telefon.*/i
 /.*Du er godkendt til en præmie fra os.*/i
+/.*1.000.000 donatie.*/i

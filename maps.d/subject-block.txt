@@ -3,3 +3,5 @@
 /.*Vi kunne ikke kontakte dig via telefon.*/i
 /.*Du er godkendt til en præmie fra os.*/i
 /.*1.000.000 donatie.*/i
+/.*Vigtigt: Åbn denne e -mail inden søndag.*/i
+/.*Vigtigt: Åbn denne e-mail inden søndag.*/i

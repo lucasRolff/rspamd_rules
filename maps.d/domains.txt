@@ -8,6 +8,7 @@
 /a2zcreatorz.com$/i
 /ryanbabiuch.com$/i
 /jasminegeeks.com$/i
+/newdimejazz.com$/i
 
 # autodoc.com sites - pure spam
 /bildeleshop.dk$/i

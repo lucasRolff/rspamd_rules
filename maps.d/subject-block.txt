@@ -5,3 +5,4 @@
 /.*1.000.000 donatie.*/i
 /.*Vigtigt: Åbn denne e -mail inden søndag.*/i
 /.*Vigtigt: Åbn denne e-mail inden søndag.*/i
+/.*Din computer er inficeret.*/i

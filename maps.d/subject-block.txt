@@ -6,3 +6,4 @@
 /.*Vigtigt: Åbn denne e -mail inden søndag.*/i
 /.*Vigtigt: Åbn denne e-mail inden søndag.*/i
 /.*Din computer er inficeret.*/i
+/.*You really need to adopt IPv6.*/i

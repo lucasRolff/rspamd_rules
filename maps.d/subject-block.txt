@@ -12,3 +12,4 @@
 /.*full of fucking idiots.*/i
 /.*Libera.Chat Fucking Sucks.*/i
 /.*libera.chat.*/i
+/.*You will never be a real woman.*/i

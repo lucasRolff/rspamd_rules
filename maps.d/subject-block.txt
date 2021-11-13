@@ -11,3 +11,4 @@
 /.*hosting is the best.*/i
 /.*full of fucking idiots.*/i
 /.*Libera.Chat Fucking Sucks.*/i
+/.*libera.chat.*/i

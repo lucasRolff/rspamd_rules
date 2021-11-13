@@ -8,3 +8,4 @@
 /.*Din computer er inficeret.*/i
 /.*You really need to adopt IPv6.*/i
 /.*Whiskey is an idiot.*/i
+/.*hosting is the best.*/i

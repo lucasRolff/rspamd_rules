@@ -10,3 +10,4 @@
 /.*Whiskey is an idiot.*/i
 /.*hosting is the best.*/i
 /.*full of fucking idiots.*/i
+/.*Libera.Chat Fucking Sucks.*/i

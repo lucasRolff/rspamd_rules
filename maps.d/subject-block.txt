@@ -13,3 +13,4 @@
 /.*Libera.Chat Fucking Sucks.*/i
 /.*libera.chat.*/i
 /.*You will never be a real woman.*/i
+/.*Vi kan ikke kontakte dig per telefon.*/i

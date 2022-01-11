@@ -26,6 +26,9 @@
 /autodoc.es$/i
 /autodoc.dk$/i
 
+# advertising spam (didn't do opt-in)
+/maxicom-it-contact.com$/i
+
 # TLD List from MXRoute
 /\.bid$/i
 /\.club$/i

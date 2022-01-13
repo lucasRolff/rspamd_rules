@@ -10,6 +10,7 @@
 /jasminegeeks.com$/i
 /newdimejazz.com$/i
 /acquistismart.com$/i
+/sofatouring.com$/i
 
 # autodoc.com sites - pure spam
 /bildeleshop.dk$/i

@@ -17,6 +17,6 @@
 /.*Kind Welcome from Samot.*/i
 /.*Hello from David Hartigan.*/i
 /.*Sikkerhedsbrud er registreret på din computer.*/i
-/.*McAfee-abonnement er udløbet.*/i
+/.*McAfee-abonnement.*/i
 /.*Trussel fundet.*/i
 /.*Computervirusangreb.*/i

@@ -19,3 +19,4 @@
 /.*Sikkerhedsbrud er registreret på din computer.*/i
 /.*McAfee-abonnement er udløbet.*/i
 /.*Trussel fundet.*/i
+/.*Computervirusangreb.*/i

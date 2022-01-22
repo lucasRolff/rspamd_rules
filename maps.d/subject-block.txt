@@ -20,3 +20,4 @@
 /.*McAfee-abonnement.*/i
 /.*Trussel fundet.*/i
 /.*Computervirusangreb.*/i
+/.*Påmindelse om presserende opdatering.*/i

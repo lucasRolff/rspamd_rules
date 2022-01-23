@@ -13,6 +13,7 @@
 /sofatouring.com$/i
 /ghandifoxes.com$/i
 /cannedpharaoh.com$/i
+/tennofive.com$/i
 
 # autodoc.com sites - pure spam
 /bildeleshop.dk$/i

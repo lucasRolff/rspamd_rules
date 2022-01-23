@@ -21,3 +21,4 @@
 /.*Trussel fundet.*/i
 /.*Computervirusangreb.*/i
 /.*Påmindelse om presserende opdatering.*/i
+/.*Opdateringerne kunne ikke fuldføres.*/i

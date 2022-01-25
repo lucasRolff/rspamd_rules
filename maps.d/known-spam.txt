@@ -1,2 +1,4 @@
 /Dit.McAfee-antivirusabonnement.er.udløbet/i
 /Vi.har.udført.en.scanning.af.din.computer.og.fand./i
+/Få.et.lille.eller.stort.lån.her.i.stedet/i
+/Din.enhed.er.inficeret.med.\([0-9]+\).vira/i

@@ -1,5 +1,5 @@
 /Dit.McAfee-antivirusabonnement.er.udløbet/i
-/Vi.har.udført.en.scanning.af.din.computer.og.fand./i
+/Vi.har.udført.en.scanning.af.din.computer.og.fand.\([0-9]+\).virusser/i
 /Få.et.lille.eller.stort.lån.her.i.stedet/i
 /Din.enhed.er.inficeret.med.\([0-9]+\).vira/i
 /Dit.McAfee-abonnement.udløb.for.[0-9]+.uger?.siden/i

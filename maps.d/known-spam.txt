@@ -3,3 +3,5 @@
 /Få.et.lille.eller.stort.lån.her.i.stedet/i
 /Din.enhed.er.inficeret.med.\([0-9]+\).vira/i
 /Dit.McAfee-abonnement.udløb.for.[0-9]+.uger?.siden/i
+/ADVARSEL:.Din.Mcafee.antivirusbeskyttelse.er.udløbet/i
+/for.at.sikre,.at.du.ikke.er.inficeret.af.en.virus.eller.malware/i

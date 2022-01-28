@@ -5,3 +5,4 @@
 /Dit.McAfee-abonnement.udløb.for.[0-9]+.uger?.siden/i
 /ADVARSEL:.Din.Mcafee.antivirusbeskyttelse.er.udløbet/i
 /for.at.sikre,.at.du.ikke.er.inficeret.af.en.virus.eller.malware/i
+/Modtag.din.endelige.salgspris.med.få.klik/i

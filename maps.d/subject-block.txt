@@ -22,3 +22,4 @@
 /.*Computervirusangreb.*/i
 /.*Påmindelse om presserende opdatering.*/i
 /.*Opdateringerne kunne ikke fuldføres.*/i
+/.*Gratis bilvurdering. Nemt og sikkert.*/i

@@ -6,3 +6,5 @@
 /ADVARSEL:.Din.Mcafee.antivirusbeskyttelse.er.udløbet/i
 /for.at.sikre,.at.du.ikke.er.inficeret.af.en.virus.eller.malware/i
 /Modtag.din.endelige.salgspris.med.få.klik/i
+/Ikke.nok.penge.i.budgettet.denne.måned/i
+/Se.dette.før.bankerne.lukker.det/i

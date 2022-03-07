@@ -8,3 +8,4 @@
 /Modtag.din.endelige.salgspris.med.få.klik/i
 /Ikke.nok.penge.i.budgettet.denne.måned/i
 /Se.dette.før.bankerne.lukker.det/i
+/McAfee-softwaren.meddeler,.at.din.computer.er.i.fare/i

@@ -15,6 +15,7 @@
 /cannedpharaoh.com$/i
 /tennofive.com$/i
 /marthack.biz$/i
+/d-games.pro$/i
 
 # autodoc.com sites - pure spam
 /bildeleshop.dk$/i

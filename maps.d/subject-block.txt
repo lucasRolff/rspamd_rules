@@ -23,4 +23,5 @@
 /.*Påmindelse om presserende opdatering.*/i
 /.*Opdateringerne kunne ikke fuldføres.*/i
 /.*Gratis bilvurdering. Nemt og sikkert.*/i
-/Din.enhed.er.inficeret.med.\([0-9]+\).vira/i
+/Din enhed er inficeret med \([0-9]+\) vira/i
+/(\w+) 2022 Salary Increase for (\w+)/i

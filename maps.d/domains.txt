@@ -17,6 +17,9 @@
 /marthack.biz$/i
 /d-games.pro$/i
 
+# phishing sites
+/dreamer.com$/i
+
 # autodoc.com sites - pure spam
 /bildeleshop.dk$/i
 /newsautodoc.com$/i

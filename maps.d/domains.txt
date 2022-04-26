@@ -35,8 +35,9 @@
 /autodoc.es$/i
 /autodoc.dk$/i
 
-# advertising spam (didn't do opt-in)
+# advertising spam
 /maxicom-it-contact.com$/i
+/geldterug-info.nl$/i
 
 # added to mailing list with no opt-in
 /pioneerlogics.live$/i

@@ -38,6 +38,7 @@
 # advertising spam
 /maxicom-it-contact.com$/i
 /geldterug-info.nl$/i
+/alienmovies.ca$/i
 
 # added to mailing list with no opt-in
 /pioneerlogics.live$/i

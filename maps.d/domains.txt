@@ -43,6 +43,7 @@
 # added to mailing list with no opt-in
 /pioneerlogics.live$/i
 /mail-ess.live$/i
+/ipv4supplier.com$/i
 
 # TLD List from MXRoute
 /\.bid$/i

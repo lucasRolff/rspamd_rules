@@ -19,6 +19,7 @@
 
 # phishing sites
 /dreamer.com$/i
+/grupoaduanalecex.com$/i
 
 # autodoc.com sites - pure spam
 /bildeleshop.dk$/i

@@ -16,6 +16,7 @@
 /tennofive.com$/i
 /marthack.biz$/i
 /d-games.pro$/i
+/ah-karriere.eu/i
 
 # phishing sites
 /dreamer.com$/i

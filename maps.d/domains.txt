@@ -17,6 +17,7 @@
 /marthack.biz$/i
 /d-games.pro$/i
 /ah-karriere.eu/i
+/ouvoposmart.com/i
 
 # phishing sites
 /dreamer.com$/i

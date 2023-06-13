@@ -48,6 +48,9 @@
 /mail-ess.live$/i
 /ipv4supplier.com$/i
 
+# reported spam domains
+/abgee.co.uk$/i
+
 # TLD List from MXRoute
 /\.bid$/i
 /\.club$/i

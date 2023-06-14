@@ -1,0 +1,2 @@
+# reported spam domains
+/abgee.co.uk$/i

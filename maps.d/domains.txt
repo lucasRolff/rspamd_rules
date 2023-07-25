@@ -38,6 +38,9 @@
 /autodoc.es$/i
 /autodoc.dk$/i
 
+# unsolicited spam
+/instandart.com/i
+
 # advertising spam
 /maxicom-it-contact.com$/i
 /geldterug-info.nl$/i

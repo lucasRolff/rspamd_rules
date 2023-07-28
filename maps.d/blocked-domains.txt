@@ -1,2 +1,10 @@
 # reported spam domains
 /abgee.co.uk$/i
+/adwardando.com$/i
+/algroup.kz$/i
+/aplisc.com$/i
+/mymarkettraders.com$/i
+/andotuie.co$/i
+/erecplsr.com$/i
+/tlclease.com$/i
+/naturalnews.com$/i

@@ -8,3 +8,5 @@
 /erecplsr.com$/i
 /tlclease.com$/i
 /naturalnews.com$/i
+/cgsteam.io$/i
+/cgs-team.org$/i

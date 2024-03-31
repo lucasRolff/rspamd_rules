@@ -10,3 +10,4 @@
 /naturalnews.com$/i
 /cgsteam.io$/i
 /cgs-team.org$/i
+/willsells.de$/i

@@ -12,3 +12,4 @@
 /cgs-team.org$/i
 /willsells.de$/i
 /kossenlux.city$/i
+/koppal.bet$/i

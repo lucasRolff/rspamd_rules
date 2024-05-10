@@ -13,3 +13,4 @@
 /willsells.de$/i
 /kossenlux.city$/i
 /koppal.bet$/i
+/jatiyasangbad.com$/i

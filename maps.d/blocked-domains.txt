@@ -14,3 +14,4 @@
 /kossenlux.city$/i
 /koppal.bet$/i
 /jatiyasangbad.com$/i
+/amazon.co.jp$/i

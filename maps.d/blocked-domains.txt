@@ -19,3 +19,4 @@
 /loms.jambyl.su$/i
 /toofun.or.mg$/i
 /rakuten-bank.co.jp$/i
+/rakuten.co.jp$/i

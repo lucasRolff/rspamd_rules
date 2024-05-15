@@ -15,3 +15,6 @@
 /koppal.bet$/i
 /jatiyasangbad.com$/i
 /amazon.co.jp$/i
+/tusale.click$/i
+/loms.jambyl.su$/i
+/toofun.or.mg$/i

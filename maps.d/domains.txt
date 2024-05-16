@@ -97,3 +97,6 @@
 /\.work$/i
 /\.bar$/i
 /\.bet$/i
+
+# Temporarily increase score for all .jp domains
+/\.jp$/i

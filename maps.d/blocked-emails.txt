@@ -1,2 +1,3 @@
-bmhx5u@googlegroups.com
-no-reply-meta-restriction-case-n12p436729@outlook.com
+/bmhx5u@googlegroups.com/i
+/no-reply-meta-restriction-case-n12p436729@outlook.com/i
+/no-reply-meta-restriction-case.*/i

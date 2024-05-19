@@ -1,2 +1,4 @@
 bmhx5u@googlegroups.com
 no-reply-meta-restriction-case.*
+no-reply-fb-restriction-case.*
+no-reply-facebook-restriction-case.*

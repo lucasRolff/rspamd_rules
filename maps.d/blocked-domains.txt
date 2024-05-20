@@ -14,9 +14,14 @@
 /kossenlux.city$/i
 /koppal.bet$/i
 /jatiyasangbad.com$/i
-/amazon.co.jp$/i
 /tusale.click$/i
 /loms.jambyl.su$/i
 /toofun.or.mg$/i
+
+# Amazon Spam
 /rakuten-bank.co.jp$/i
 /rakuten.co.jp$/i
+/amazon.co.jp$/i
+
+# FB spam
+/partypoint.es$/i

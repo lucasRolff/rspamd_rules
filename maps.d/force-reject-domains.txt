@@ -1,1 +1,2 @@
+# this map is for select customers only
 /.jp$/i

@@ -1,4 +1,6 @@
 bmhx5u@googlegroups.com
+
+# Facebook Phishing attempts
 no-reply-meta-restriction-case.*
 no-reply-fb-restriction-case.*
 no-reply-facebook-restriction-case.*

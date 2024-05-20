@@ -62,7 +62,7 @@
 /tlclease.com$/i
 /naturalnews.com$/i
 
-# TLD List from MXRoute
+# TLD List from MXRoute and other sources
 /\.bid$/i
 /\.club$/i
 /\.date$/i
@@ -97,6 +97,7 @@
 /\.work$/i
 /\.bar$/i
 /\.bet$/i
+\/.cc$/i
 
 # Temporarily increase score for all .jp domains
 /\.jp$/i

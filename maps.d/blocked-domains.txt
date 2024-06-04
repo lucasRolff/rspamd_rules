@@ -17,6 +17,7 @@
 /tusale.click$/i
 /loms.jambyl.su$/i
 /toofun.or.mg$/i
+/sxyprn.com$/i
 
 # Amazon Spam
 /rakuten-bank.co.jp$/i

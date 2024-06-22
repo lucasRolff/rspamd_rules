@@ -20,6 +20,7 @@
 /sxyprn.com$/i
 /stayfirmusa.za.com$/i
 /bloodpure2day.sa.com$/i
+/meowebmail.one$/i
 
 # Amazon Spam
 /rakuten-bank.co.jp$/i

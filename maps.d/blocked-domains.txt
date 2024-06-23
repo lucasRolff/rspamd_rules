@@ -21,6 +21,8 @@
 /stayfirmusa.za.com$/i
 /bloodpure2day.sa.com$/i
 /meowebmail.one$/i
+/wellness.za.com$/i
+/feelgoodknee.za.com$/i
 
 # Amazon Spam
 /rakuten-bank.co.jp$/i

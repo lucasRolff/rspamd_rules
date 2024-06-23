@@ -23,6 +23,10 @@
 /meowebmail.one$/i
 /wellness.za.com$/i
 /feelgoodknee.za.com$/i
+/loms.jambyl.su$/i
+
+# Nets spam
+/datilesdeargelia.com$/i
 
 # Amazon Spam
 /rakuten-bank.co.jp$/i

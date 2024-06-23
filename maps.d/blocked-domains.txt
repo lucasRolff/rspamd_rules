@@ -24,6 +24,7 @@
 /wellness.za.com$/i
 /feelgoodknee.za.com$/i
 /loms.jambyl.su$/i
+/alhimes.co.za$/i
 
 # Nets spam
 /datilesdeargelia.com$/i

@@ -26,3 +26,4 @@
 /Din enhed er inficeret med \([0-9]+\) vira/i
 /^(\w+) 2022 Salary Increase for (\w+)$/i
 /.*Maintainance Serveice Notice.*/i
+/.*Opmærksomhed på sagen.*/i

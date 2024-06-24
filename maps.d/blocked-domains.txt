@@ -18,13 +18,11 @@
 /loms.jambyl.su$/i
 /toofun.or.mg$/i
 /sxyprn.com$/i
-/stayfirmusa.za.com$/i
-/bloodpure2day.sa.com$/i
 /meowebmail.one$/i
-/wellness.za.com$/i
-/feelgoodknee.za.com$/i
 /loms.jambyl.su$/i
 /alhimes.co.za$/i
+/.za.com$/i
+/.sa.com$/i
 
 # Nets spam
 /datilesdeargelia.com$/i

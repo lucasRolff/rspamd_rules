@@ -23,6 +23,7 @@
 /alhimes.co.za$/i
 /.za.com$/i
 /.sa.com$/i
+/coopunes.business$/i
 
 # Nets spam
 /datilesdeargelia.com$/i

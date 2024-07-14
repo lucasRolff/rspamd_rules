@@ -25,6 +25,7 @@
 /.sa.com$/i
 /coopunes.business$/i
 /holfmaste.de$/i
+/nwmediation.us$/i
 
 # Nets spam
 /datilesdeargelia.com$/i

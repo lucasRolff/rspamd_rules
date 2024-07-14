@@ -24,6 +24,7 @@
 /.za.com$/i
 /.sa.com$/i
 /coopunes.business$/i
+/holfmaste.de$/i
 
 # Nets spam
 /datilesdeargelia.com$/i

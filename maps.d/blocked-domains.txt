@@ -26,6 +26,7 @@
 /coopunes.business$/i
 /holfmaste.de$/i
 /nwmediation.us$/i
+/winstallse.autos$/i
 
 # Nets spam
 /datilesdeargelia.com$/i

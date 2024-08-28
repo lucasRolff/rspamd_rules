@@ -19,7 +19,6 @@
 /toofun\.or\.mg$/i
 /sxyprn\.com$/i
 /meowebmail\.one$/i
-/loms\.jambyl\.su$/i
 /alhimes\.co\.za$/i
 /\.za\.com$/i
 /\.sa\.com$/i

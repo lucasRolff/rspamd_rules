@@ -1,66 +1,66 @@
 # Domains known to have a high amount of spam
 
-/cloudwaysapps.com$/i
-/stonepizza.org$/i
-/premadediamonds.com$/i
-/preciouspace.net$/i
-/seasonalgrowth.org$/i
-/a2zcreatorz.com$/i
-/ryanbabiuch.com$/i
-/jasminegeeks.com$/i
-/newdimejazz.com$/i
-/acquistismart.com$/i
-/sofatouring.com$/i
-/ghandifoxes.com$/i
-/cannedpharaoh.com$/i
-/tennofive.com$/i
-/marthack.biz$/i
-/d-games.pro$/i
-/ah-karriere.eu/i
-/ouvoposmart.com/i
+/cloudwaysapps\.com$/i
+/stonepizza\.org$/i
+/premadediamonds\.com$/i
+/preciouspace\.net$/i
+/seasonalgrowth\.org$/i
+/a2zcreatorz\.com$/i
+/ryanbabiuch\.com$/i
+/jasminegeeks\.com$/i
+/newdimejazz\.com$/i
+/acquistismart\.com$/i
+/sofatouring\.com$/i
+/ghandifoxes\.com$/i
+/cannedpharaoh\.com$/i
+/tennofive\.com$/i
+/marthack\.biz$/i
+/d-games\.pro$/i
+/ah-karriere\.eu/i
+/ouvoposmart\.com/i
 
 # phishing sites
-/dreamer.com$/i
-/grupoaduanalecex.com$/i
+/dreamer\.com$/i
+/grupoaduanalecex\.com$/i
 
-# autodoc.com sites - pure spam
-/bildeleshop.dk$/i
-/newsautodoc.com$/i
-/autodoc.nl$/i
-/auto-onderdelen24.nl$/i
-/autoparti.it$/i
-/piecesauto24.be$/i
-/auto-doc.fr$/i
-/piecesauto24.com$/i
-/piecesdiscount24.fr$/i
-/reservedelenstore.nl$/i
-/autodoc.pl$/i
-/autodoc.es$/i
-/autodoc.dk$/i
+# autodoc\.com sites - pure spam
+/bildeleshop\.dk$/i
+/newsautodoc\.com$/i
+/autodoc\.nl$/i
+/auto-onderdelen24\.nl$/i
+/autoparti\.it$/i
+/piecesauto24\.be$/i
+/auto-doc\.fr$/i
+/piecesauto24\.com$/i
+/piecesdiscount24\.fr$/i
+/reservedelenstore\.nl$/i
+/autodoc\.pl$/i
+/autodoc\.es$/i
+/autodoc\.dk$/i
 
 # unsolicited spam
-/instandart.com/i
+/instandart\.com/i
 
 # advertising spam
-/maxicom-it-contact.com$/i
-/geldterug-info.nl$/i
-/alienmovies.ca$/i
+/maxicom-it-contact\.com$/i
+/geldterug-info\.nl$/i
+/alienmovies\.ca$/i
 
 # added to mailing list with no opt-in
-/pioneerlogics.live$/i
-/mail-ess.live$/i
-/ipv4supplier.com$/i
+/pioneerlogics\.live$/i
+/mail-ess\.live$/i
+/ipv4supplier\.com$/i
 
 # reported spam domains
-/abgee.co.uk$/i
-/adwardando.com$/i
-/algroup.kz$/i
-/aplisc.com$/i
-/mymarkettraders.com$/i
-/andotuie.co$/i
-/erecplsr.com$/i
-/tlclease.com$/i
-/naturalnews.com$/i
+/abgee\.co\.uk$/i
+/adwardando\.com$/i
+/algroup\.kz$/i
+/aplisc\.com$/i
+/mymarkettraders\.com$/i
+/andotuie\.co$/i
+/erecplsr\.com$/i
+/tlclease\.com$/i
+/naturalnews\.com$/i
 
 # TLD List from MXRoute and other sources
 /\.bid$/i

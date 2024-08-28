@@ -1,40 +1,40 @@
 # reported spam domains
-/abgee.co.uk$/i
-/adwardando.com$/i
-/algroup.kz$/i
-/aplisc.com$/i
-/mymarkettraders.com$/i
-/andotuie.co$/i
-/erecplsr.com$/i
-/tlclease.com$/i
-/naturalnews.com$/i
-/cgsteam.io$/i
-/cgs-team.org$/i
-/willsells.de$/i
-/kossenlux.city$/i
-/koppal.bet$/i
-/jatiyasangbad.com$/i
-/tusale.click$/i
-/loms.jambyl.su$/i
-/toofun.or.mg$/i
-/sxyprn.com$/i
-/meowebmail.one$/i
-/loms.jambyl.su$/i
-/alhimes.co.za$/i
-/.za.com$/i
-/.sa.com$/i
-/coopunes.business$/i
-/holfmaste.de$/i
-/nwmediation.us$/i
-/winstallse.autos$/i
+/abgee\.co\.uk$/i
+/adwardando\.com$/i
+/algroup\.kz$/i
+/aplisc\.com$/i
+/mymarkettraders\.com$/i
+/andotuie\.co$/i
+/erecplsr\.com$/i
+/tlclease\.com$/i
+/naturalnews\.com$/i
+/cgsteam\.io$/i
+/cgs-team\.org$/i
+/willsells\.de$/i
+/kossenlux\.city$/i
+/koppal\.bet$/i
+/jatiyasangbad\.com$/i
+/tusale\.click$/i
+/loms\.jambyl\.su$/i
+/toofun\.or\.mg$/i
+/sxyprn\.com$/i
+/meowebmail\.one$/i
+/loms\.jambyl\.su$/i
+/alhimes\.co\.za$/i
+/\.za\.com$/i
+/\.sa\.com$/i
+/coopunes\.business$/i
+/holfmaste\.de$/i
+/nwmediation\.us$/i
+/winstallse\.autos$/i
 
 # Nets spam
-/datilesdeargelia.com$/i
+/datilesdeargelia\.com$/i
 
 # Amazon Spam
-/rakuten-bank.co.jp$/i
-/rakuten.co.jp$/i
-/amazon.co.jp$/i
+/rakuten-bank\.co\.jp$/i
+/rakuten\.co\.jp$/i
+/amazon\.co\.jp$/i
 
 # FB spam
-/partypoint.es$/i
+/partypoint\.es$/i

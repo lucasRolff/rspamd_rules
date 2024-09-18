@@ -1,2 +1,3 @@
 /tor\-exit/i
 /Como\spuedo\siniciar\ssesion?/i
+/hosted-by-vdsina\.ru/i

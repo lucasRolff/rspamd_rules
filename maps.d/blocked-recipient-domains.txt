@@ -1,3 +1,4 @@
 /example\.com$/i
 /example\.net$/i
 /admin\.com$/i
+/tinho\.test$/i

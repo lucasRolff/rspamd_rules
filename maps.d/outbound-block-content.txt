@@ -53,3 +53,5 @@
 /thecraftedcafe\.com/i
 /RichardRex/i
 /TedHit/i
+/MichaelImaLi/i
+/WlasowGoodomsi/i

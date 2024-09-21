@@ -1,3 +1,4 @@
 /Name: .*Email: .*Message: .*/
 /Navn: .*Email: .*Besked: .*/
 /.*En ny kommentar til dit indlæg.*Marker den som spam.*/
+/.*A new comment on the post.*Spam it:.*/

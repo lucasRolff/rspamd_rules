@@ -1,2 +1,3 @@
 /Name: .*Email: .*Message: .*/
 /Navn: .*Email: .*Besked: .*/
+/En ny kommentar til dit indlæg/

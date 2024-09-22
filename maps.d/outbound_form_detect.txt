@@ -4,3 +4,4 @@
 /.*A new comment on the post.*Spam it:.*/
 /This e-mail was sent from a contact form/i
 /.*KUNDE HENVENDELSE FRA.*/
+/Der er kommet en ny besked fra hjemmesiden/

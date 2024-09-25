@@ -1,9 +1,10 @@
 /Name: .*Email: .*Message: .*/
 /Navn: .*Email: .*Besked: .*/
-/Navn: .*E-Mail: .*Evt. besked: .*/
+/Navn: .*E-Mail: .*Evt\. besked: .*/
 /.*En ny kommentar til dit indlæg.*Marker den som spam.*/
 /.*A new comment on the post.*Spam it:.*/
 /This e-mail was sent from a contact form/i
 /.*KUNDE HENVENDELSE FRA.*/
 /Der er kommet en ny besked fra hjemmesiden/
 /.*Ein neuer Kommentar zum Beitrag.*/
+/.*Write.a.message.to.us\.\.\..*Where.and.when.should.we.contact.you.*/

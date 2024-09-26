@@ -107,3 +107,10 @@
 /farironalds\.com/i
 /Standby.Letters.of.Credit/i
 /xru\.goaglie\.com/i
+/Vavada.kazino/i
+/bit.ly\/GrantAccounts/i
+/bit.ly\/Ivan-Ramirez/i
+/bit.ly\/websiteoptout/
+/vrbank-suedoldenburg.de/i
+/kayleighbpsteamship/i
+/weisslothar83/i

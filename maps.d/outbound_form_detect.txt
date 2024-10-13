@@ -10,3 +10,4 @@
 /.*Write.a.message.to.us\.\.\..*Where.and.when.should.we.contact.you.*/
 /via.kontaktformularen.på/i
 /.*Navn.*E-mail.*Indtast.besked.*/
+/.*Navn.*Telefon.nr.*Skriv.din.besked.til.os.*/i

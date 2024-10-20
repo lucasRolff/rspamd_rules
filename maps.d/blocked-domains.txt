@@ -39,5 +39,6 @@
 /partypoint\.es$/i
 
 /www\.everythingthensome\.com/i
+/tadbircard\.ir/i
 
 /ai-impact-group\.com/i

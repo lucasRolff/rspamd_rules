@@ -42,3 +42,4 @@
 /tadbircard\.ir/i
 
 /ai-impact-group\.com/i
+/interruniforms\.com/i

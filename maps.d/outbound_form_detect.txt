@@ -12,3 +12,4 @@
 /.*Navn.*E-mail.*Indtast.besked.*/
 /.*Navn.*Telefon.nr.*Skriv.din.besked.til.os.*/i
 /.*Fornavn.*Efternavn.*E-mail.*Besked.*/i
+/.*Fra:.*Email:.*BESKED:.*/i

@@ -23,6 +23,9 @@
 /dreamer\.com$/i
 /grupoaduanalecex\.com$/i
 
+/infinstall\.de/i
+/xn--90ajm.044\.xn--p1acf/i
+
 # autodoc\.com sites - pure spam
 /bildeleshop\.dk$/i
 /newsautodoc\.com$/i

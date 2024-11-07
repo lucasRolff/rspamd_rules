@@ -43,3 +43,6 @@
 
 /ai-impact-group\.com/i
 /interruniforms\.com/i
+
+/infinstall\.de/i
+/xn--90ajm.044\.xn--p1acf/i

@@ -43,6 +43,7 @@
 
 # unsolicited spam
 /instandart\.com/i
+/touchsupportteam\.com/i
 
 # advertising spam
 /maxicom-it-contact\.com$/i

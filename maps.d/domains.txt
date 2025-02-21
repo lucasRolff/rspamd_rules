@@ -44,6 +44,7 @@
 # unsolicited spam
 /instandart\.com/i
 /touchsupportteam\.com/i
+/personeel-dt\.me/i
 
 # advertising spam
 /maxicom-it-contact\.com$/i

@@ -46,3 +46,6 @@
 
 /infinstall\.de/i
 /xn--90ajm.044\.xn--p1acf/i
+
+# unsolicited email
+/touchsupportteam\.com/

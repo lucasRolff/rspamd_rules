@@ -26,6 +26,7 @@
 /holfmaste\.de$/i
 /nwmediation\.us$/i
 /winstallse\.autos$/i
+/tsoroka\.gb\.net$/i
 
 # Nets spam
 /datilesdeargelia\.com$/i
@@ -48,4 +49,4 @@
 /xn--90ajm.044\.xn--p1acf/i
 
 # unsolicited email
-/touchsupportteam\.com/
+/touchsupportteam\.com$/

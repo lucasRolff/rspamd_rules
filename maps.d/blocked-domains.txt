@@ -27,6 +27,7 @@
 /nwmediation\.us$/i
 /winstallse\.autos$/i
 /tsoroka\.gb\.net$/i
+/loms\.jambyl\.su$/i
 
 # Nets spam
 /datilesdeargelia\.com$/i

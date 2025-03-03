@@ -28,6 +28,7 @@
 /winstallse\.autos$/i
 /tsoroka\.gb\.net$/i
 /loms\.jambyl\.su$/i
+/cokam\.com\.tr$/i
 
 # Nets spam
 /datilesdeargelia\.com$/i

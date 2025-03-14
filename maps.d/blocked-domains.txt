@@ -29,6 +29,11 @@
 /tsoroka\.gb\.net$/i
 /loms\.jambyl\.su$/i
 /cokam\.com\.tr$/i
+/ticsali\.it$/i
+/comeron\.com\.tr$/i
+/myownemailbox\.com$/i
+/mailcatch\.com$/i
+/hotmailboxlive\.com$/i
 
 # Nets spam
 /datilesdeargelia\.com$/i

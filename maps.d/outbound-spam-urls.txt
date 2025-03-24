@@ -912,3 +912,5 @@ shorten.tv
 shorten.so
 shorten.is
 peatix.com
+strictlydigital.net
+www.strictlydigital.net

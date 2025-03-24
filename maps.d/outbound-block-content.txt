@@ -132,3 +132,4 @@
 /AXIOM.ASTERISK/i
 /0092-333-8711707/i
 /AIPAC/
+/From.many.manuscripts.of.Antiquity/i

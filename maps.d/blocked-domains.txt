@@ -35,6 +35,8 @@
 /mailcatch\.com$/i
 /hotmailboxlive\.com$/i
 
+/coponew\.science/i
+
 # Nets spam
 /datilesdeargelia\.com$/i
 

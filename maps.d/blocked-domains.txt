@@ -34,6 +34,7 @@
 /myownemailbox\.com$/i
 /mailcatch\.com$/i
 /hotmailboxlive\.com$/i
+/actionleadgeneration\.com$/i
 
 /coponew\.science/i
 

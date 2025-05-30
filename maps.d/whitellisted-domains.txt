@@ -1,1 +1,3 @@
 /[a-zA-Z0-9].wixforms.com$/i
+/^mandrill.dinero.dk$/i
+/^dinero.dk$/i

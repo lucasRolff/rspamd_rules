@@ -557,6 +557,7 @@ shorten.is
 shorten.so
 shorten.tv
 shorturl.at
+shorturl.fm
 show-business.site
 siambookmark.com
 sirmaskafsoxila.gr

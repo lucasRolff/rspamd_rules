@@ -134,3 +134,4 @@
 /AIPAC/
 /From.many.manuscripts.of.Antiquity/i
 /TV-commercial-grade.videos/i
+/shorturl\.fm\/f4TEQ/i

@@ -18,6 +18,7 @@
 /d-games\.pro$/i
 /ah-karriere\.eu/i
 /ouvoposmart\.com/i
+/stylo360\.com/i
 
 # phishing sites
 /dreamer\.com$/i

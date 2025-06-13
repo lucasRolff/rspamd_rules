@@ -47,6 +47,7 @@
 /touchsupportteam\.com/i
 /personeel-dt\.me/i
 /tracking\.clear-capital-uk\.com/i
+/clicks\.portmanfinancegroup\.co\.uk/i
 
 # advertising spam
 /maxicom-it-contact\.com$/i

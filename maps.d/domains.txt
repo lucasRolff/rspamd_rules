@@ -48,6 +48,8 @@
 /personeel-dt\.me/i
 /tracking\.clear-capital-uk\.com/i
 /clicks\.portmanfinancegroup\.co\.uk/i
+/startingpoint\.ai/i
+/info\.startingpoint\.ai/i
 
 # advertising spam
 /maxicom-it-contact\.com$/i

@@ -35,6 +35,8 @@
 /mailcatch\.com$/i
 /hotmailboxlive\.com$/i
 /actionleadgeneration\.com$/i
+/startingpoint\.ai$/i
+/info\.startingpoint\.ai$/i
 
 /coponew\.science/i
 

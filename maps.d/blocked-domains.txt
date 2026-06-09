@@ -62,3 +62,6 @@
 
 # unsolicited email
 /touchsupportteam\.com$/
+
+# sends .dk phishing
+/nimbusnepal\.com$/i

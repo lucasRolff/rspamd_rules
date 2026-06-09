@@ -6,3 +6,6 @@ help@cyberpanel.net
 no-reply-meta-restriction-case.*
 no-reply-fb-restriction-case.*
 no-reply-facebook-restriction-case.*
+
+.*@nimbusnepal\.com
+noreply@thecustomerfactorr\.net
